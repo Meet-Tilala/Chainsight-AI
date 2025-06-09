@@ -1,5 +1,0 @@
-# Backend dependencies
-fastapi
-uvicorn
-pydantic
-motor
